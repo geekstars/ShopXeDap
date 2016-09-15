@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>XeDapTheThao</key>
+	<dict>
+		<key>name</key>
+		<string>Xe Đạp Thể Thao</string>
+		<key>price</key>
+		<string>5.000.000 VNĐ</string>
+		<key>images</key>
+		<array>
+			<string>xethethao1</string>
+			<string>xethethao2</string>
+			<string>xethethao3</string>
+			<string>xethethao4</string>
+			<string>xethethao5</string>
+			<string>xethethao6</string>
+		</array>
+		<key>content</key>
+		<string>Được thiết kế với kiểu dáng thể thao, năng động, nhỏ gọn cực kì phù hợp với giới độp xe chuyên nghiệp, giới văn phòng, trẻ em và những người yêu thích xe đạp dòng thể thao. Màu sắc tươi trẻ, hài hòa thực sự nổi bật trước những đối thủ khác nhanh chóng trở thành “hấp lực” khó chối từ.Với sự cải tiến đáng kể theo xu hướng nhẹ- bền- thời trang chính là tiêu chí đầu tiên và quan trọng nhất của Xe đạp thể thao. Vô số những chi tiết, phụ kiện được biến hình theo thị hiếu của người sử dụng, chỉ còn bánh xe và một số bộ phận quan trọng vẫn giữ được vẻ nguyên thủy vốn có. Do đó, bạn hoàn toàn có thể lựa chọn cho mình một kiểu dáng, màu sắc phù hợp với cá tính và túi tiền của mình.</string>
+	</dict>
+	<key>XeDapDiaHinh</key>
+	<dict>
+		<key>name</key>
+		<string>Xe Đạp Địa Hình</string>
+		<key>price</key>
+		<string>8.000.000 VNĐ</string>
+		<key>images</key>
+		<array>
+			<string>xediahinh1</string>
+			<string>xediahinh2</string>
+			<string>xediahinh3</string>
+			<string>xediahinh4</string>
+			<string>xediahinh5</string>
+			<string>xediahinh6</string>
+		</array>
+		<key>content</key>
+		<string>Nếu như xe đạp thể thao thiên về hoạt động nhẹ nhàng, cung đường bằng phù hợp với giới văn phòng, trẻ em thì xe đạp địa hình lại có bộ khung thể thao chắc chắn sẽ đưa bạn tới những cảm giác cực Yomost, mạnh mẽ và mạo hiểm khi leo núi.Trải qua những con đường gồ ghề, hiểm trở nhưng xe đạp địa hình vẫn mạnh mẽ và hiên ngang cùng bạn. Xe đạp địa hình đòi hỏi người chơi phải khéo léo và can đảm hơn để có thể vượt qua các chướng ngại vật hay các địa hình phức tạp.</string>
+	</dict>
+	<key>XeDapTreEm</key>
+	<dict>
+		<key>name</key>
+		<string>Xe Đạp Trẻ Em</string>
+		<key>price</key>
+		<string>1.000.000 VNĐ</string>
+		<key>images</key>
+		<array>
+			<string>xedaptreem1</string>
+			<string>xedaptreem2</string>
+			<string>xedaptreem3</string>
+			<string>xedaptreem4</string>
+			<string>xedaptreem5</string>
+			<string>xedaptreem6</string>
+		</array>
+		<key>content</key>
+		<string>Xe đạp trẻ em (child bike) sẽ giúp các bé phát triển toàn diện về thể chất và trí tuệ. Các bé được làm quen và tập với những chiếc xe thể thao này sẽ trở lên hiếu động và cứng cáp hơn so với các bạn cùng lứa tuổi. Đó sẽ là món quà tặng tuyệt vời mà bố mẹ dành cho các bé thân yêu.</string>
+	</dict>
+	<key>XeDapGap</key>
+	<dict>
+		<key>name</key>
+		<string>Xe Đạp Gấp</string>
+		<key>price</key>
+		<string>3.000.000 VNĐ</string>
+		<key>images</key>
+		<array>
+			<string>xedapgap1</string>
+			<string>xedapgap2</string>
+			<string>xedapgap3</string>
+			<string>xedapgap4</string>
+			<string>xedapgap5</string>
+			<string>xedapgap5</string>
+		</array>
+		<key>content</key>
+		<string>Bạn có thể dễ dàng nhận thấy dòng Xe đạp gấp (folding bikes) có sự khác biệt so với dòng xe đạp thể thao thông thường đó là bộ khung, khung của xe gấp rất gọn và chỉ có duy nhất một gióng chéo rất to cùng với đó là cơ cấu gấp được thiết kế để gập đôi chiếc xe một cách gọn gàng và nhanh chóng. Chính đặc tính này làm cho chiếc xe đạp gấp trở lên vô cùng độc đáo, chắc chắn sẽ không “đụng hàng” và nó khiến cho chủ nhân trở lên nổi bật khi đồng hành trên mọi chặng đường. Xe đạp gấp sẽ trở lên vô cùng tiện dụng nếu bạn là người ưa thích du lịch, chiếc xe dễ dàng gập đôi để xếp gọn gàng lên xe ô tô; hoặc bạn phải đi bộ từ nhà ra chỗ để xe, rất vất vả nhất là khi đang có cuộc họp quan trọng chờ bạn; hoặc bạn rất thích bộ môn xe đạp thể thao nhưng diện tích căn nhà lại quá chặt hẹp, chiếc xe đạp gấp sẽ giải quyết đơn giản mọi vấn đề này. </string>
+	</dict>
+	<key>XeDapDua</key>
+	<dict>
+		<key>name</key>
+		<string>Xe Đạp Đua</string>
+		<key>price</key>
+		<string>6.000.000 VNĐ</string>
+		<key>images</key>
+		<array>
+			<string>xedapdua1</string>
+			<string>xedapdua2</string>
+			<string>xedapdua3</string>
+			<string>xedapdua4</string>
+			<string>xedapdua5</string>
+			<string>xedapdua6</string>
+		</array>
+		<key>content</key>
+		<string>Xe đạp đua – tốc độ, kỹ thuật và đẳng cấp Một sự trải nghiệm tuyệt vời với những tính năng cao cấp nhất, những công nghệ ưu việt nhất đều được sử dụng cho xe đạp đua. Cảm giác thích thú và tốc độ cao đem lại những trải nghiệm tuyệt vời nhất Nếu là những tay đua chuyên nghiệp, chắc chắn xe đạp đua (road bike) sẽ là sự lựa chọn không thể thay thế. Bạn chắc chắn sẽ hiểu những chiếc xe đạp đua này quyến rũ thế nào. Còn nếu là người tập thể thao, xe đạp đua sẽ khiến bạn là người nổi bật và khác biệt nhất. Bạn cũng phải trang bị cho mình một kiến thức nhất định khi điều khiển những chiếc xe đạp đua, nó liên quan đến tính chất cấu tạo và kết cấu khí động học của xe để đem lại cảm giác nhẹ nhàng và tốc độ nhất.</string>
+	</dict>
+	<key>XeDapCity</key>
+	<dict>
+		<key>name</key>
+		<string>Xe Đạp City</string>
+		<key>price</key>
+		<string>5.000.000 VNĐ</string>
+		<key>images</key>
+		<array>
+			<string>xedapcity1</string>
+			<string>xedapcity2</string>
+			<string>xedapcity3</string>
+			<string>xedapcity4</string>
+			<string>xedapcity5</string>
+			<string>xedapcity6</string>
+		</array>
+		<key>content</key>
+		<string>Không hầm hố mạnh mẽ như xe thể thao, không tốc độ cao và thanh mảnh như xe đua nhưng xe đạp thành phố (hay còn gọi xe đạp city, xe touring) vẫn cuốn hút người dùng bởi sự tiện dụng, sự dung hòa giữa hai dòng xe trên. Xe city co tốc độ kém road nhưng lại nhanh hơn mtb và đặc biệt là nó nhẹ nhàng hơn mtb, kiểu dáng xe trông cũng cổ điển và lịch lãm hơn, rất phù hợp để đi làm hay đi dã ngoại, đi dạo phố. Chính vì các đặc trưng trên mà xe đạp thành phố ngày càng được lựa chọn nhiều. Xe đạp thành phố thường được thiết kế thêm baga để đèo hàng hay đèo trẻ em, chắn bùn dạng ôm sát nên nếu trời mưa hay đường bẩn sẽ không bị bắn như dòng thể thao. Tuy nhiên, dòng city chỉ khuyến cáo nên đi ở đường bằng phẳng, đường thành phố.</string>
+	</dict>
+</dict>
+</plist>
